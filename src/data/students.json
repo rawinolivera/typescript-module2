@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Torres",
+    "dateOfBirth": "1999-04-12",
+    "email": "ana.torres@example.com",
+    "program": "Software Development",
+    "school": "Engineering & Technology"
+  },
+  {
+    "id": 3,
+    "name": "Beatriz Silva",
+    "dateOfBirth": "2001-02-18",
+    "email": "beatriz.silva@example.com",
+    "program": "Web Design & Development",
+    "school": "Engineering & Technology"
+  },
+  {
+    "id": 2,
+    "name": "Rawin Olivera",
+    "dateOfBirth": "1990-05-17",
+    "email": "oliverara@byui.edu",
+    "program": "Software Development",
+    "school": "BYU-Idaho"
+  },
+  {
+    "id": 4,
+    "school": "Ucla",
+    "name": "Randy Ruiz",
+    "dateOfBirth": "1989-11-19",
+    "email": "rruiz@gmail.com",
+    "program": "Accounting"
+  }
+]
