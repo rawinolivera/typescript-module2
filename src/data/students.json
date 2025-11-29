@@ -3,17 +3,9 @@
     "id": 1,
     "name": "Ana Torres",
     "dateOfBirth": "1999-04-12",
-    "email": "ana.torres@example.com",
+    "email": "atorres@byui.edu",
     "program": "Software Development",
-    "school": "Engineering & Technology"
-  },
-  {
-    "id": 3,
-    "name": "Beatriz Silva",
-    "dateOfBirth": "2001-02-18",
-    "email": "beatriz.silva@example.com",
-    "program": "Web Design & Development",
-    "school": "Engineering & Technology"
+    "school": "BYU-Idaho"
   },
   {
     "id": 2,
@@ -24,11 +16,51 @@
     "school": "BYU-Idaho"
   },
   {
+    "id": 3,
+    "name": "Beatriz Silva",
+    "dateOfBirth": "2001-02-18",
+    "email": "bsilva@byui.edu",
+    "program": "Web Design & Development",
+    "school": "BYU-Idaho"
+  },
+  {
     "id": 4,
-    "school": "Ucla",
     "name": "Randy Ruiz",
     "dateOfBirth": "1989-11-19",
-    "email": "rruiz@gmail.com",
-    "program": "Accounting"
+    "email": "rruiz@ucla.com",
+    "program": "Accounting",
+    "school": "UCLA"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Mendoza",
+    "dateOfBirth": "1998-07-09",
+    "email": "cmendoza@ucla.com",
+    "program": "Software Development",
+    "school": "UCLA"
+  },
+  {
+    "id": 6,
+    "name": "Lucia Fernández",
+    "dateOfBirth": "2000-01-25",
+    "email": "lfernandez@byui.edu",
+    "program": "Accounting",
+    "school": "BYU-Idaho"
+  },
+  {
+    "id": 7,
+    "name": "David Herrera",
+    "dateOfBirth": "1997-09-03",
+    "email": "dherrera@byui.edu",
+    "program": "Computer Science",
+    "school": "BYU-Idaho"
+  },
+  {
+    "id": 8,
+    "name": "Sofía Martinez",
+    "dateOfBirth": "2002-06-14",
+    "email": "smartinez@ucla.edu",
+    "program": "Web Design & Development",
+    "school": "UCLA"
   }
 ]
