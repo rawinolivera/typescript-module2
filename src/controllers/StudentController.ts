@@ -4,6 +4,7 @@ import { StudentRepository } from "../repositories/StudentRepository";
 
 export class StudentController {
 
+  //GET
   static async getStudents(req: Request, res: Response){
     try {
       const students = await StudentRepository.readJson();
@@ -13,6 +14,7 @@ export class StudentController {
     }
   }
 
+  //GET/:id
   static async getStudentById(req: Request, res: Response){
     try {
       const students = await StudentRepository.readJson();
@@ -31,6 +33,7 @@ export class StudentController {
     }
   }
 
+  //PUT
   static async createStudent(req: Request, res: Response){
     try {
       const students = await StudentRepository.readJson();
@@ -50,6 +53,7 @@ export class StudentController {
     }
   }
 
+  //POST
   static async updateStudent(req: Request, res: Response){
     try {
       const students = await StudentRepository.readJson();
